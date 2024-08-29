@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd7cfd1860e62184193e6ef49374c563, type: 3}
+  m_Name: Mozzarella
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: 519d7a7b27cebd5428c626a260d5851a, type: 3}
+  <Name>k__BackingField: Made with love
+  <Description>k__BackingField: Mozzarella profit x20
+  <Price>k__BackingField: 10
+  <NormalButton>k__BackingField: {fileID: 21300000, guid: 2bc0a8bc3ef4fd84ea0fc58d4138d09c, type: 3}
+  <DisabledButton>k__BackingField: {fileID: 21300000, guid: 03013727028c5344c973cf2278df17d0, type: 3}
